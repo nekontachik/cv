@@ -13,7 +13,7 @@ Senior Quality Assurance Engineer with a decade of expertise in mobile and AI-po
 - QA Processes Optimization
 
 ## Technical Writing
-- [Building AI Chatbots with Google DialogFlow](your_medium_link) - Tutorial on implementing AI-powered chatbots using free services
+- [Building AI Chatbots with Google DialogFlow](https://medium.com/@beki.hueki/build-a-powerful-ai-chatbot-with-dialogflow-google-gemini-and-telegram-in-30minutes-ba6799cb0608) - Tutorial on implementing AI-powered chatbots using free services
 
 ## Projects and Tools
 Currently exploring and implementing various AI-powered development tools:
