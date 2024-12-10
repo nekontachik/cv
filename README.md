@@ -14,6 +14,7 @@ Senior Quality Assurance Engineer with a decade of expertise in mobile and AI-po
 
 ## Technical Writing
 - [Building AI Chatbots with Google DialogFlow](https://medium.com/@beki.hueki/build-a-powerful-ai-chatbot-with-dialogflow-google-gemini-and-telegram-in-30minutes-ba6799cb0608) - Tutorial on implementing AI-powered chatbots using free services
+- [Getting Started with Google Colab: Free Platform for AI Projects](https://medium.com/@alex_kit/getting-started-with-google-colab-free-platform-for-ai-projects-3d4468410de2)
 
 ## Projects and Tools
 Currently exploring and implementing various AI-powered development tools:
